@@ -1,3 +1,3 @@
 # PureSwiftUICustomViews
 
-A description of this package.
+Only for iOS >=13.0
